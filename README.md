@@ -67,7 +67,7 @@ This project is a Wi-Fi-controlled robotic car based on the **ESP32 Wemos D1 R32
 - **Password**: `12345678`
 - **Control URL**: [http://192.168.4.1](http://192.168.4.1)
 
-## 🧪 Setup Instructions
+## Setup Instructions
 
 1. Connect all hardware components.
 2. Upload the provided code using Arduino IDE (ESP32 board selected).
